@@ -5,9 +5,9 @@ from time import sleep
 print("温馨提示：请将浏览器最小化以加快速度，但是不可关闭！\n")
 
 
-username = "2016211556"
+username = ""
 
-password = "fyc123456.199712"
+password = ""
 
 class_name = "法律与生活"
 
